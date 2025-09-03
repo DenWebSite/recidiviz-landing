@@ -377,7 +377,7 @@ a {
   padding-bottom: 40px;
   min-height: 776px;
   color: var(--light-color);
-  background-image: url("../../img/hero-bg.jpg");
+  background-image: url("./img/hero-bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -689,22 +689,22 @@ a {
   color: var(--active-color);
 }
 .approach__link--ted {
-  background-image: url("./../../img/approach-icon-1.svg");
+  background-image: url("./img/approach-icon-1.svg");
 }
 .approach__link--nyt {
-  background-image: url("./../../img/approach-icon-2.svg");
+  background-image: url("./img/approach-icon-2.svg");
 }
 .approach__link--state {
-  background-image: url("./../../img/approach-icon-3.svg");
+  background-image: url("./img/approach-icon-3.svg");
 }
 .approach__link--ap {
-  background-image: url("./../../img/approach-icon-4.svg");
+  background-image: url("./img/approach-icon-4.svg");
 }
 .approach__link--time {
-  background-image: url("./../../img/approach-icon-5.svg");
+  background-image: url("./img/approach-icon-5.svg");
 }
 .approach__link--ft {
-  background-image: url("./../../img/approach-icon-6.svg");
+  background-image: url("./img/approach-icon-6.svg");
 }
 
 .info {
@@ -721,7 +721,7 @@ a {
   flex-shrink: 0;
   width: 287px;
   height: 100%;
-  background-image: url("./../../img/info-1.png");
+  background-image: url("./img/info-1.png");
 }
 @media (max-width: 1024px) {
   .info::before {
@@ -734,7 +734,7 @@ a {
   flex-shrink: 0;
   width: 287px;
   height: 100%;
-  background-image: url("./../../img/info-2.png");
+  background-image: url("./img/info-2.png");
 }
 @media (max-width: 1024px) {
   .info::after {
@@ -1038,22 +1038,22 @@ a {
   background-repeat: no-repeat;
 }
 .press-card__author--ted {
-  background-image: url("./../../img/approach-icon-1.svg");
+  background-image: url("./img/approach-icon-1.svg");
 }
 .press-card__author--cnews {
-  background-image: url("./../../img/cnews.svg");
+  background-image: url("./img/cnews.svg");
 }
 .press-card__author--doj {
-  background-image: url("./../../img/doj.svg");
+  background-image: url("./img/doj.svg");
 }
 .press-card__author--nyt {
-  background-image: url("./../../img/approach-icon-2.svg");
+  background-image: url("./img/approach-icon-2.svg");
 }
 .press-card__author--corr {
-  background-image: url("./../../img/corr.svg");
+  background-image: url("./img/corr.svg");
 }
 .press-card__author--roc {
-  background-image: url("./../../img/roc.svg");
+  background-image: url("./img/roc.svg");
 }
 .press-card__link {
   -webkit-transition: color 0.3s ease-out;
@@ -1292,3 +1292,4 @@ a {
   -ms-flex-pack: end;
   justify-content: flex-end;
 }/*# sourceMappingURL=main.css.map */
+
